@@ -4,4 +4,6 @@ TES#
 from local addded 
 
 AFTER Branch?
+The IEASYSxx Parameters screen (=6.1.12) is generating the TMVS30701W - TMVS307 IPAPDE COUNT GREATER THAN DEFINED message. A new parameter RSM was added in z/OS 3.1. I
+think it is related to dedicated memory, but I do not have an Init and Tuning Reference for z/OS 3.1 yet.  I can finish the fix once we get that manuals.
 
